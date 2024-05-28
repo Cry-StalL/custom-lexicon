@@ -8,8 +8,49 @@
   alphabet="sapi"
   xml:lang="zh-CN"
 >
+  <!-- A -->
+  <!-- B -->
+  <!-- C -->
+  <!-- D -->
+  <lexeme>
+    <grapheme>大富头马蹄</grapheme>
+    <phoneme>da 4 fu 4 tou 2 ma 3 ti 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>东陂</grapheme>
+    <phoneme>dong 1 bei 1</phoneme>
+  </lexeme>
+  <!-- E -->
+  <!-- F -->
+  <!-- G -->
+  <!-- H -->
+  <lexeme>
+    <grapheme>湟福沙坊粉</grapheme>
+    <phoneme>huang 2 fu 2 sha 1 fang 1 fen 3</phoneme>
+  </lexeme>
+  <!-- K -->
+  <lexeme>
+    <grapheme>柯木湾</grapheme>
+    <phoneme>ke 1 mu 4 wan 1</phoneme>
+  </lexeme>
+  <!-- L -->
+  <!-- M -->
+  <!-- N -->
   <lexeme>
     <grapheme>牛肉干</grapheme>
     <phoneme>niu 2 rou 4 gan 1</phoneme>
   </lexeme>
+  <!-- P -->
+  <!-- Q -->
+  <!-- R -->
+  <!-- S -->
+  <lexeme>
+    <grapheme>沙坊粉</grapheme>
+    <phoneme>sha 1 fang 1 fen 3</phoneme>
+  </lexeme>
+  <!-- T -->
+  <!-- W -->
+  <!-- X -->
+  <!-- Y -->
+  <!-- Z -->
 </lexicon>
